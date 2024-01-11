@@ -1,4 +1,4 @@
-Khóa cửa RFID sử dụng Servo
+Khóa cửa RFID sử dụng Servo - Đồ án 1 (đồ án thiết kế phần mềm nhúng)
 
 Thiết bị sử dụng:
 - Arduino Uno R3
